@@ -35,7 +35,7 @@ const HeroSection = () => {
             <div className="flex sm:flex-row items-center justify-center md:justify-start gap-4 relative z-10">
               {/* Google Play */}
               <a
-                href="#"
+                href="https://play.google.com/store/apps/details?id=com.helperg.money"
                 className="bg-white md:px-5 md:py-2 px-2 py-1 rounded-lg flex items-center hover:opacity-90 transition"
               >
                 <img
@@ -53,7 +53,7 @@ const HeroSection = () => {
 
               {/* Apple Store */}
               <a
-                href="#"
+                href="https://apps.apple.com/us/app/pocket-manager-budget-tracker/id6743084126"
                 className="bg-white md:px-5 md:py-2 px-2 py-1 rounded-lg flex items-center hover:opacity-90 transition"
               >
                 <img

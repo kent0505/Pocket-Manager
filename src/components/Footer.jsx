@@ -28,10 +28,10 @@ const Footer = () => {
             </h3>
             <p className="mb-2">Download the app:</p>
             <div className="flex gap-4">
-              <a href="#">
+              <a href="https://apps.apple.com/us/app/pocket-manager-budget-tracker/id6743084126">
                 <img src="/apple.svg" alt="App Store" className="h-8" />
               </a>
-              <a href="#">
+              <a href="https://play.google.com/store/apps/details?id=com.helperg.money">
                 <img src="/google.svg" alt="Google Play" className="h-8" />
               </a>
             </div>

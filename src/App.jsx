@@ -5,7 +5,6 @@ import HeroSection from "./components/HeroSection";
 import AboutUsSection from "./components/AboutUsSection";
 import TestimonialsSection from "./components/TestimonialsSection";
 import StatisticsSection from "./components/StatisticsSection";
-import PricingSection from "./components/PricingSection";
 import FAQSection from "./components/FAQSection";
 import Footer from "./components/Footer";
 import PrivacyPolicy from "./components/PrivacyPolicy";
@@ -20,7 +19,6 @@ function HomePage() {
       <AboutUsSection />
       <TestimonialsSection />
       <StatisticsSection />
-      <PricingSection />
       <FAQSection />
       <Footer />
     </div>
